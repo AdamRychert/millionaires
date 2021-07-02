@@ -1,0 +1,9 @@
+﻿  Lifebuoy.cpp
+  ScoreBoard.cpp
+  gameplayF.cpp
+  main.cpp
+C:\Users\Adam\source\repos\Milionerzy\main\main.cpp(15,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  person.cpp
+C:\Users\Adam\source\repos\Milionerzy\main\person.cpp(47,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  main.vcxproj -> C:\Users\Adam\source\repos\Milionerzy\Debug\main.exe
